@@ -10,11 +10,11 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-mvgc89-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvgc89/)](https://www.linkedin.com/in/mvgc89/)
+[![Linkedin Badge](https://img.shields.io/badge/-mvgc89-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvgc89/)](https://www.linkedin.com/in/mvgc89/)
 
-[![Gmail Badge](https://img.shields.io/badge/-mvgc1989@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mvgc1989@gmail.com)](mailto:mvgc1989@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mvgc1989@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mvgc1989@gmail.com)](mailto:mvgc1989@gmail.com)
 
-
+[![Badge](https://img.shields.io/badge/Website-MVGC89-1f425f.svg)](https://mvgc1989.github.io/Meu-Site/index.html)
 
 </p>
 
