@@ -4,9 +4,11 @@
  
  ___
 
- <h1> Marcos Carvalho <img src="https://komarev.com/ghpvc/?username=MVGC1989" alt="MVGC1989" /></h1>
+ <h1 aling="center"> Marcos Carvalho </h1>
  
 <p align="center">
+ 
+ <img src="https://komarev.com/ghpvc/?username=MVGC1989" alt="MVGC1989" />
 
 <a href="mailto:mailto:mvgc1989@gmail.com">
     <img src="https://img.shields.io/badge/-mvgc1989@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mvgc1989@gmail.com" />
