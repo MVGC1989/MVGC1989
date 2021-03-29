@@ -4,7 +4,7 @@
  
  ___
 
- ## Marcos Carvalho <p ><img src="https://komarev.com/ghpvc/?username=MVGC1989" alt="MVGC1989" /></p>
+ <h1> Marcos Carvalho <img src="https://komarev.com/ghpvc/?username=MVGC1989" alt="MVGC1989" /></h1>
  
 <p align="center">
 
@@ -12,11 +12,14 @@
     <img src="https://img.shields.io/badge/-mvgc1989@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mvgc1989@gmail.com" />
   </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-mvgc89-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvgc89/)](https://www.linkedin.com/in/mvgc89/)
+<a href="https://www.linkedin.com/in/mvgc89/">
+    <img src="https://img.shields.io/badge/-mvgc89-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvgc89/" />
+  </a>
 
+<a href="https://mvgc1989.github.io/Meu-Site/index.html">
+    <img src="https://img.shields.io/badge/Website-MVGC89-1f425f.svg" />
+  </a>
 
-
-[![Badge](https://img.shields.io/badge/Website-MVGC89-1f425f.svg)](https://mvgc1989.github.io/Meu-Site/index.html)
 
 </p>
 
