@@ -1,6 +1,4 @@
-## Marcos Carvalho
-
-<img align="center" width="300px" src="MVGC89.png" />
+ <img align="center" width="300px" src="MVGC89.png" />
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MVGC1989" alt="MVGC1989" /></p>
 
