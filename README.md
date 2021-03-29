@@ -8,11 +8,13 @@
  
 <p align="center">
 
-
+<a href="mailto:mailto:mvgc1989@gmail.com">
+    <img src="https://img.shields.io/badge/-mvgc1989@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mvgc1989@gmail.com" />
+  </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-mvgc89-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvgc89/)](https://www.linkedin.com/in/mvgc89/)
 
-[![Gmail Badge](https://img.shields.io/badge/-mvgc1989@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mvgc1989@gmail.com)](mailto:mvgc1989@gmail.com)
+
 
 [![Badge](https://img.shields.io/badge/Website-MVGC89-1f425f.svg)](https://mvgc1989.github.io/Meu-Site/index.html)
 
