@@ -14,11 +14,11 @@
     <img src="https://img.shields.io/badge/-mvgc1989@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mvgc1989@gmail.com" />
   </a>
 
-<a href="https://www.linkedin.com/in/mvgc89/">
+<a href="https://www.linkedin.com/in/mvgc89/" target="_blank">
     <img src="https://img.shields.io/badge/-mvgc89-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvgc89/" />
   </a>
 
-<a href="https://mvgc1989.github.io/Meu-Site/index.html">
+<a href="https://mvgc1989.github.io/Meu-Site/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Website-MVGC89-1f425f.svg" />
   </a>
 
