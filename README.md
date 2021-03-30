@@ -57,6 +57,6 @@
 <img
   align="right"
   height="150"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVGC1989&title_color=ffffff&text_color=ffffff&layout=compact&hide_border=true&theme=dark&bg_color=010409"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVGC1989&title_color=ffffff&text_color=ffffff&layout=compact&hide_border=true&bg_color=010409"
 />
 
