@@ -22,6 +22,11 @@
 <a href="https://mvgc1989.github.io/Meu-Site/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Website-Marcos Carvalho-1f425f.svg?style=plastic&color=044289" />
  </a>
+ 
+  
+ <a href="">
+    <img src="https://img.shields.io/badge/-Marcos Carvalho 5597-7389D8?style=plastic&logo=Discord&logoColor=white"/>
+ </a>
 
 </p>
 
