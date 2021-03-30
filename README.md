@@ -6,8 +6,8 @@
  
  
  
-<p align = "justify"><i> I am from São Paulo, Gemini and a lover of cinema and dogs! Web Design 🖤</i></p>
- 
+<p align = "justify"><i> I am from São Paulo, gemini ♊ and a lover of cinema 🎬 and dogs 🐶! Web Design 🖤</i></p>
+ <p align = "justify"><i> 🔥 I am currently looking for a job as Frontend Developer</i></p>
 <p align="left">
  
 
