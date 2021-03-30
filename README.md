@@ -6,7 +6,7 @@
  
  
  
-<p align = "justify"><i> I am from São Paulo, Gemini and a lover of cinema and dogs!</i></p>
+<p align = "justify"><i> I am from São Paulo, Gemini and a lover of cinema and dogs! Web Design 🖤</i></p>
  
 <p align="left">
  
@@ -16,14 +16,22 @@
   </a>
 
 <a href="https://www.linkedin.com/in/mvgc89/" target="_blank">
-    <img src="https://img.shields.io/badge/-mvgc89-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvgc89/" />
+    <img src="https://img.shields.io/badge/-Marcos Carvalho-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mvgc89/" />
   </a>
 
 <a href="https://mvgc1989.github.io/Meu-Site/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Website-MVGC89-1f425f.svg?style=plastic&color=044289" />
-  </a>
-
+    <img src="https://img.shields.io/badge/Website-Marcos Carvalho-1f425f.svg?style=plastic&color=044289" />
+ </a>
 
 </p>
+
+ ___
+ 
+<h2> ⚙️ Git Hub Stats</h2>
+
+<a href="https://github.com/MVGC1989?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/MVGC1989.svg?style=social&label=Follow&maxAge=2592000"/>
+</a>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MVGC1989&hide=TeX&layout=compact)
