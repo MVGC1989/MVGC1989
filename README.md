@@ -20,7 +20,7 @@
   </a>
 
 <a href="https://mvgc1989.github.io/Meu-Site/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Marcos Carvalho-1f425f.svg?style=plastic&color=044289" />
+    <img src="https://img.shields.io/badge/-Marcos Carvalho-1f425f.svg?style=plastic&color=044289&logo=data:iconfinder_icon_animal_lobo_3316545.png" />
  </a>
  
   
