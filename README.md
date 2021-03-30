@@ -52,11 +52,11 @@
 <img
   align="left"
   height="150"
-  src="https://github-readme-stats.vercel.app/api?username=MVGC1989&theme=dark&show_icons=true&count_private=true&custom_title=Marcos Carvalho's%20GitHub Status&hide=issues&title_color=ffffff&icon_color=f7df1e&text_color=ffffff&bg_color=010409"/>
+  src="https://github-readme-stats.vercel.app/api?username=MVGC1989&theme=dark&show_icons=true&count_private=true&custom_title=Marcos Carvalho's%20GitHub Status&hide=issues&title_color=ffffff&icon_color=f7df1e&text_color=ffffff&bg_color=010409&hide_border=true"/>
   
 <img
+  align="right"
   height="150"
-  background-size="cover"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVGC1989&title_color=ffffff&text_color=ffffff&layout=compact&hide_border=true&theme=dark&bg_color=010409"
 />
 
