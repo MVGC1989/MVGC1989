@@ -49,12 +49,15 @@
     <img src="https://img.shields.io/github/followers/MVGC1989.svg?style=social&label=Follow&maxAge=2592000"/>
 </a>
 
+
+<img align="center"
+width="495px"
+  src="https://github-readme-stats.vercel.app/api?username=MVGC1989&theme=dark&show_icons=true&count_private=true&custom_title=Marcos Carvalho's%20GitHub Status&hide=issues&title_color=ffffff&icon_color=f7df1e&text_color=ffffff&bg_color=010409&hide_border=true"/>
+  
 <img align="rigth"
-width="350px"
+width="495px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVGC1989&title_color=ffffff&text_color=ffffff&layout=compact&hide_border=true&bg_color=010409"
 />
 
-<img align="left"
-  src="https://github-readme-stats.vercel.app/api?username=MVGC1989&theme=dark&show_icons=true&count_private=true&custom_title=Marcos Carvalho's%20GitHub Status&hide=issues&title_color=ffffff&icon_color=f7df1e&text_color=ffffff&bg_color=010409&hide_border=true"/>
   
 
