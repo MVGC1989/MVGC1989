@@ -38,6 +38,7 @@
  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql)
+ ![MySql](https://img.shields.io/badge/-MySql-black?style=plastic&logo=mysql&logoColor=white)
  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
  
