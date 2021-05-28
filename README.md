@@ -41,6 +41,7 @@
  ![MySql](https://img.shields.io/badge/-MySql-black?style=plastic&logo=mysql&logoColor=white)
  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+ ![Wordpress](https://img.shields.io/badge/-WordPress-black?style=plastic&logo=wordpress)
  
   ___
  
